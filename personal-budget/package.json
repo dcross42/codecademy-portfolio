@@ -1,0 +1,19 @@
+{
+  "name": "personal-budget",
+  "version": "1.0.0",
+  "description": "Personal Budget Project for Codecademy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "jsdom": "^16.4.0",
+    "mocha": "^8.2.1",
+    "supertest": "^6.1.1"
+  }
+}
